@@ -1,4 +1,4 @@
-**Note:To download the csv files, click on it and select `view raw`. Right click on the screen and select `save as` csv file.
+**Note:To download the csv files, click on it and select `view raw`. Right click on the screen and select `save as` csv file.**
 
 **price_predict_reduced.csv:** 
   *  Text data. 10000 rows
