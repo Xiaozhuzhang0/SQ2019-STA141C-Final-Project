@@ -1,3 +1,5 @@
+**Note:To download the csv files, click on it and select `view raw`. Right click on the screen and select `save as` csv file.
+
 **price_predict_reduced.csv:** 
   *  Text data. 10000 rows
   *  https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
@@ -14,4 +16,13 @@
   *  https://www.kaggle.com/mohansacharya/graduate-admissions
   *  We want to predict the chance of being admitted into graduate school
 
-  
+**pass_testing.csv**
+  * https://www.kaggle.com/c/mercedes-benz-greener-manufacturing/data
+  * 4210*377 sparse dataset, binary and categorical variable 
+  * We want to predict the time (in seconds) that the car took to pass testing 
+
+**Automobile.csv**
+  * http://archive.ics.uci.edu/ml/datasets/Automobile(on github)
+  * 205*26(categorical attributes and numerical attributes)
+  * Predict the price of the cars given their characteristics. 
+
